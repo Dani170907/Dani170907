@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daniramadh79135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniramadh79135" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dani ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dani ramadhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dani-ramadhan-8a953322bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dani ramadhan" height="30" width="40" /></a>
 <a href="https://facebook.com/profile.php?id=100023887941642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dani ramadhan" height="30" width="40" /></a>
 <a href="https://instagram.com/rmdhn_1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rmdhn_1712" height="30" width="40" /></a>
 </p>
