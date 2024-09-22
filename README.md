@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani Ramadhan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=I+am+a+Student+at+Syafi'i+Akrom+Vocational+School)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=I+am+a+Student+at+SMK+Syafi'i+Akrom)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dani170907&label=Profile%20views&color=0e75b6&style=flat" alt="dani170907" /> </p>
