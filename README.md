@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dani170907&label=Profile%20views&color=0e75b6&style=flat" alt="dani170907" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dani170907" alt="dani170907" /></a> </p>
 
 - 🌱 I’m currently learning **CodeIgniter, Laravel, Tailwind**
 
@@ -27,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani170907&show_icons=true&locale=en" alt="dani170907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dani170907&" alt="dani170907" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dani170907" alt="dani170907" /></a> </p>
