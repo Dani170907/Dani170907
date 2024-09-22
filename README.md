@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dani170907" alt="dani170907" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/daniramadh79135" target="blank"><img src="https://img.shields.io/twitter/follow/daniramadh79135?logo=twitter&style=for-the-badge" alt="daniramadh79135" /></a> </p>
-
 - 🌱 I’m currently learning **CodeIgniter, Laravel, Tailwind**
 
 - 📫 How to reach me **daniramadhan170907@gmail.com**
