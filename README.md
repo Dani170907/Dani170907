@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F59E0B&width=435&lines=I+am+a+Student+at+SMK+Syafi'i+Akrom)](https://git.io/typing-svg)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dani170907&label=Profile%20views&color=0e75b6&style=flat" alt="dani170907" /> </p>
-
-
 - 🌱 I’m currently learning **CodeIgniter, Laravel, Tailwind**
 
 - 📫 How to reach me **daniramadhan170907@gmail.com**
