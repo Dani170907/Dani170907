@@ -30,11 +30,11 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 <h3>Skills</h3>
 <h6 align="left">Tools</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linkedin,figma&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linkedin&theme=light&perline=5)](https://skillicons.dev)
 
 <h6 align="left">Front End</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,tailwind&theme=light&perline=5)](https://skillicons.dev)
 
 <h6 align="left">Back End</h6>
 
