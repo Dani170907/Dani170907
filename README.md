@@ -28,15 +28,15 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 </p>
 
 <h3>Skills</h3>
-<h5 align="left">Tools</h5>
+<h6 align="left">Tools</h6>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linkedin,figma&theme=light&perline=5)](https://skillicons.dev)
 
-<h5 align="left">Front End</h5>
+<h6 align="left">Front End</h6>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=light&perline=5)](https://skillicons.dev)
 
-<h5 align="left">Back End</h5>
+<h6 align="left">Back End</h6>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,php,laravel&theme=light&perline=5)](https://skillicons.dev)
 
