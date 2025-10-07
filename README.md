@@ -3,8 +3,6 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F59E0B&width=435&lines=I+am+just+a+Coder)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning [**Laravel**](https://laravel.com/), [**Tailwind**](https://tailwindcss.com/)
-
 - 📫 How to reach me **daniramadhan170907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +25,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 </p>
 </p>
 
-<h3>Skills</h3>
+<h3>Learning</h3>
 <h6 align="left">Tools</h6>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linkedin&theme=light&perline=5)](https://skillicons.dev)
