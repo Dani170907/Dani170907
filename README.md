@@ -35,7 +35,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 
 <h6 align="left">Back End</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,php,laravel&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,php,laravel,kotlin&theme=light&perline=5)](https://skillicons.dev)
 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dani170907&show_icons=true&locale=en"
