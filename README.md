@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Dani Ramadhan</h1>
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F59E0B&width=435&lines=I+am+just+a+Coder)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F59E0B&width=435&lines=just+a+Coder)](https://git.io/typing-svg)
 - 📫 How to reach me **daniramadhan170907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
