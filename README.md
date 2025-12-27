@@ -37,13 +37,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,php,laravel,kotlin&theme=light&perline=5)](https://skillicons.dev)
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dani170907&show_icons=true&locale=en"
-        alt="dani170907" />
-</p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dani170907&" alt="dani170907" />
-</p>
-
 <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
     <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF"
         style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)" />
