@@ -22,7 +22,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="https://stackoverflow.com/users/27416216/dani-ramadhan" height="30" width="40" /></a>
 </p>
-</p>
 
 <h3>Learning</h3>
 <h6 align="left">Tools</h6>
