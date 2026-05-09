@@ -5,7 +5,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 - 📫 How to reach me **daniramadhan170907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
     <a href="https://twitter.com/daniramadh79135" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="daniramadh79135" height="30" width="40" /></a>
@@ -21,12 +20,11 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
     <a href="https://stackoverflow.com/users/27416216/dani-ramadhan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="https://stackoverflow.com/users/27416216/dani-ramadhan" height="30" width="40" /></a>
-</p>
 
-<h3>Learning</h3>
+<!-- <h3>Learning</h3> -->
 <h6 align="left">Tools</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linkedin&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linkedin,androidstudio,github,git,stackoverflow,idea,npm&theme=light&perline=5)](https://skillicons.dev)
 
 <h6 align="left">Front End</h6>
 
