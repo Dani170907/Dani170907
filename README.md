@@ -24,7 +24,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&
 <!-- <h3>Learning</h3> -->
 <h6 align="left">Tools</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linkedin,androidstudio,github,git,stackoverflow,idea,npm&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,git,stackoverflow,idea,npm&theme=light&perline=5)](https://skillicons.dev)
 
 <h6 align="left">Front End</h6>
 
